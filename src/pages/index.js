@@ -1,10 +1,10 @@
 import React from "react";
 import {
 	AboutSection,
-	ArticlesSection,
+	// ArticlesSection,
 	ContactSection,
 	HeroSection,
-	InterestsSection,
+	// InterestsSection,
 	Page,
 	ProjectsSection,
 	Seo,
