@@ -1,0 +1,89 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🕹️ WEBSITE DESIGN",
+      "title": "UVA aKDPhi Website",
+      "description": "A website designed for the alpha Kappa Delta Phi Sigma Chapter.",
+      "tags": ["wix.com"],
+      "image": {
+        "src": "../../images/uvakdphi-site.png",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://uvakdphi.wixsite.com/uvakdphi"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ WEBSITE DESIGN",
+      "title": "UVA aKDPhi Archive",
+      "description": "A virtual archive for active sisters and alumnae to easily access any past event details or photos.",
+      "tags": ["wix.com"],
+      "image": {
+        "src": "../../images/uvakdphi-archive.png",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vikang"
+        },
+        {
+          "type": "external",
+          "url": "https://historianuvakdphi.wixsite.com/archive"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ FEATURED PROJECT",
+      "title": "God Is A Woman VS Code Theme",
+      "description": "A VS Code theme inspired by the color palette from Ariana Grande's music video, God Is A Woman.",
+      "tags": ["VS Code"],
+      "image": {
+        "src": "../../images/god-is-a-woman.png",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vikang/god-is-a-woman-theme"
+        },
+        {
+          "type": "external",
+          "url": "https://marketplace.visualstudio.com/items?itemName=Vikang.god-is-a-woman"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": " 🕹️ FEATURED PROJECT",
+      "title": "Class COVID-19 Tracker",
+      "description": "A COVID-19 tracker for UVA courses. Students can create and login to their secure personal account, track their health status, request an appointment with partnering health clinics, and track their class COVID-19 status to determine whether they feel safe to attend class in-person or would instead prefer attending virtually.",
+      "tags": ["Node JS", "MySQL"],
+      "image": {
+        "src": "../../images/covid-19.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vikang/covid-tracker"
+        },
+        {
+          "type": "external",
+          "url": "https://class-covid-tracker.herokuapp.com/"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": false,
+    "label": "Visit on Github",
+    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+  }
+}

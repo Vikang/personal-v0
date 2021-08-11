@@ -1,0 +1,18 @@
+{
+  "intro": "Hi, my name is",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "Victoria Wang",
+  "subtitle": {
+    "prefix": "I build things ",
+    "highlight": "for the web",
+    "suffix": "."
+  },
+  "description": "I'm a design-minded front-end software developer focused on building beautiful interfaces & experiences.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}
